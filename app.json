@@ -57,6 +57,16 @@
         "value": "",
         "required": true
       }
+      "SUPPORT_CHAT": {
+        "description": "Add your group link here.",
+        "value": "",
+        "required": false
+      },
+      "SUPPORT_CHANNEL": {
+        "description": "Add your channel link here.",
+        "value": "",
+        "required": false
+      },
     },
     "buildpacks": [
           {
