@@ -56,7 +56,7 @@
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!",
         "value": "",
         "required": true
-      }
+      },
       "SUPPORT_CHAT": {
         "description": "Add your group link here.",
         "value": "",
