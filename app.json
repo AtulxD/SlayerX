@@ -66,6 +66,16 @@
         "description": "Add your channel link here.",
         "value": "",
         "required": false
+      },
+      "START_IMG_URL": {
+        "description": "If you want to change it, replace it with your IMAGE URL.",
+        "value": "https://graph.org/file/db7653b29f9b702cb12f8.jpg",
+        "required": true
+      },
+      "PING_IMG_URL": {
+        "description": "If you want to change it, replace it with your IMAGE URL.",
+        "value": "https://graph.org/file/bc7f8903e60fbfafa2eb4.jpg",
+        "required": true
       }
     },
     "buildpacks": [
