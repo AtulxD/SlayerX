@@ -1,7 +1,7 @@
 {
     "name": "SlayerX Music",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://graph.org/file/e27e233e14eb9f3271885.jpg",
+    "logo": "https://graph.org/file/b1f9fdde54434861f1cb1.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -69,12 +69,12 @@
       },
       "START_IMG_URL": {
         "description": "If you want to change it, replace it with your IMAGE URL.",
-        "value": "https://graph.org/file/db7653b29f9b702cb12f8.jpg",
+        "value": "https://graph.org/file/b1f9fdde54434861f1cb1.jpg",
         "required": true
       },
       "PING_IMG_URL": {
         "description": "If you want to change it, replace it with your IMAGE URL.",
-        "value": "https://graph.org/file/bc7f8903e60fbfafa2eb4.jpg",
+        "value": "https://graph.org/file/69debc297837235b7584d.jpg",
         "required": true
       }
     },
