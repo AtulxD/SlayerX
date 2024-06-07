@@ -60,12 +60,12 @@
       "SUPPORT_CHAT": {
         "description": "Add your group link here.",
         "value": "",
-        "required": false
+        "required": true
       },
       "SUPPORT_CHANNEL": {
         "description": "Add your channel link here.",
         "value": "",
-        "required": false
+        "required": true
       },
       "START_IMG_URL": {
         "description": "If you want to change it, replace it with your IMAGE URL.",
